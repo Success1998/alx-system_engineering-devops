@@ -1,0 +1,1 @@
+d --lines=3 iacta | tail --lines=1
